@@ -139,3 +139,36 @@ Data_Visualization_Project/
 │   └── Data Visualization Project - Marcela Redondo.twbx
 │
 └── README.md
+```
+
+## **Programs & Tools Used** 
+
+- **Python** — data processing and analysis
+- **Pandas** — data cleaning and manipulation
+- **Excel** — data organization and analysis
+- **Tableau** — data visualization and dashboard development
+- **CSV** — structured data storage and processing
+- **Google Maps** — collection of bakery ratings, review counts, addresses, and bakery information
+
+## **Skills Demonstrated**
+
+- Data collection
+- Data cleaning and preparation
+- Data integration
+- Exploratory data analysis
+- Data visualization
+- Business analysis
+- Competitive analysis
+- Market analysis
+- Geographic analysis
+- Identifying trends and patterns
+- Translating data into business insights
+- Developing data-driven recommendations
+
+## **Project Context**
+
+This project was completed as part of **CIS609: Data Visualization** and demonstrates an end-to-end approach to analyzing a potential business opportunity.
+
+The project moved from data collection and preparation through Python analysis, Tableau visualization, and business recommendations. The analysis focused on customer preferences, bakery competition, geographic distribution, and opportunities for Colombian-inspired baked goods in the Kansas City market.
+
+The project demonstrates skills applicable to both **Data Analyst** and **Business Analyst** roles, particularly in using data to identify trends, evaluate opportunities, and support business decisions.
