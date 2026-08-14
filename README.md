@@ -8,7 +8,7 @@ The project combines data collection, data cleaning, Python analysis, Excel, and
 
 The analysis was completed as part of a data visualization project and focuses on using data to support a potential bakery business decision.
 
-## ** Business Question** 
+## **Business Question** 
 
 How can available market and customer data be used to identify opportunities for a Colombian-inspired bakery in the Kansas City market?
 
